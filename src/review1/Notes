@@ -1,0 +1,14 @@
+8 primitive data types
+4 BASIC data types: 1)byte 2) short 3)int 4) long
+
+2 basic data types to store decimal numbers:
+  1) float 2) double
+
+  To store character:
+    char
+
+    To store true/false
+      boolean
+
+      NonPrimitives:
+      1) String (most widely used/flexible data type)
